@@ -1,8 +1,8 @@
-package control;
+package org.ulpgc.is1.control;
 
-
-import model.BookCatalog;
-import model.Subject;
+import org.ulpgc.is1.model.Author;
+import org.ulpgc.is1.model.BookCatalog;
+import org.ulpgc.is1.model.Subject;
 
 public class Main {
 
