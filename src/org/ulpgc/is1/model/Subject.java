@@ -1,5 +1,8 @@
 package org.ulpgc.is1.model;
 
-public class Subject {
-
+public enum Subject {
+    Novel,
+    Art,
+    Cinema,
+    Languages
 }
